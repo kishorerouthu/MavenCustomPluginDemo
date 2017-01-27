@@ -29,8 +29,8 @@ Parameter annotation defines the configuration property that dynamically taken f
 - defaultValue it takes this values nothing is configured
 
 Note : In pom.xml definition packaging should be maven-plugin.
-       <groupId>com.tutorial.maven.plugin</groupId>
+       "<groupId>com.tutorial.maven.plugin</groupId>
        <artifactId>hello-maven-plugin</artifactId>
        <packaging>maven-plugin</packaging>
-       <version>1.0</version>
+       <version>1.0</version>"
        
